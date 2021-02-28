@@ -1,7 +1,7 @@
 # data-analytics
 
 ### Marketing Analytics
-The intention of this [project](https://github.com/rdamatta/data-analytics/blob/main/App_analytics.ipynb) is to provide developers with insights about the apps available at Google Play and the App Store to understand what kind of product is likely to attract more users.
+The objective of this [project](https://github.com/rdamatta/data-analytics/blob/main/App_analytics.ipynb) is to provide developers with insights about the apps available at Google Play and the App Store to understand what kind of product is likely to attract more users.
 
 ### Data Wrangling
 [Here](https://github.com/rdamatta/data-analytics/blob/main/HN_analytics.ipynb) we want to analyze what kind of post within the Hacker News community, on average, receive more comments.
